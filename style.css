@@ -1,0 +1,70 @@
+.container {
+     text-align: center;
+}
+button {
+    background-color:rgb(224, 94, 211);
+    color: whitesmoke;
+    border-color:rgb(224, 94, 211);
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+}
+.hamster{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 30vh;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 140px;
+}
+h1{
+    font-family: cursive;
+}
+body{
+    background-color: rgb(237,164,230);
+}
+.page2heading{
+    text-align: center;
+    margin-top: 140px;
+}
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    margin: 0px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    margin: 0px;
+}
+.twohami{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        height: 30vh;
+}
+.page4{
+    text-align: center;
+}
+#heyy{
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    margin-top: 130px;
+    margin-bottom: 0px;
+}
+.love{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 30vh;
+}
+h4{
+    text-align: center;
+}
