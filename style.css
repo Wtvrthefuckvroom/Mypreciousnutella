@@ -20,7 +20,7 @@ button {
     justify-content: center;
     align-content: center;
     margin-top: 140px;
-     text-align: center;
+    text-align: center;
 }
 h1{
     font-family: cursive;
@@ -30,7 +30,7 @@ body{
 }
 .page2heading{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 p{
     padding-left: 10px;
